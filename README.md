@@ -8,7 +8,7 @@
 - :mortar_board: I'm an Automation and Control Engineer.
 - :dog: I love dogs.
 - :runner: I'm a run race addict.
-- :musical_score:I do not live without music
+- :musical_score:I don't live without music
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
