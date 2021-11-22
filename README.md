@@ -39,7 +39,7 @@
 <br>
 <br>
 
-<h3 align="left">:triangular_ruler: Statistic Card</h3>
+<h3 align="left">:triangular_ruler: Stats Card</h3>
 <div align="center">
   <a href="https://github.com/lipollis/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&show_icons=true&theme=dracula"/> </a>
   <a href="(https://github.com/lipollis/github-readme-stats)"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&show_icons=true&theme=dracula"/> </a>
