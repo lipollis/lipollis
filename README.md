@@ -41,14 +41,14 @@
 
 <h3 align="left">:triangular_ruler: Stats Card</h3>
 <div align="center">
-  <a href="https://github.com/lipollis/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&show_icons=true&theme=dracula&hide_border=true"/> </a>
-  <a href="(https://github.com/lipollis/github-readme-stats)"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&show_icons=true&theme=dracula&hide_border=true"/> </a>
+  <a href="https://github.com/lipollis/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&show_icons=true&theme=aura&hide_border=true"/> </a>
+  <a href="(https://github.com/lipollis/github-readme-stats)"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&show_icons=true&theme=aura&hide_border=true"/> </a>
 </div> 
 <br>
 <br>
 
 <h3 align="left"></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipollis" alt="lipollis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipollis&theme=dracula&show_icons=true&no-bg=true&column=3&margin-w=20&margin-h=20" alt="lipollis" /></a> </p>
 <br>
 <br>
 
