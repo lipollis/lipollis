@@ -41,8 +41,8 @@
 
 <h3 align="left">:triangular_ruler: Stats Card</h3>
 <div align="center">
-  <a href="https://github.com/lipollis/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&theme=dracula&show_icons=true&no-bg=true&hide_border=true"/> </a>
-  <a href="(https://github.com/lipollis/github-readme-stats)"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&theme=dracula&show_icons=true&no-bg=true&hide_border=true"/> </a>
+  <a href="https://github.com/lipollis/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&theme=dracula&show_icons=true&hide_border=true&locale=pt-br&bg_color=0000"/> </a>
+  <a href="(https://github.com/lipollis/github-readme-stats)"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&theme=dracula&show_icons=true&hide_border=true&locale=pt-br&bg_color=0000"/> </a>
 </div> 
 <br>
 <br>
