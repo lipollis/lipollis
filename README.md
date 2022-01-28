@@ -48,7 +48,7 @@
 <br>
 
 <h3 align="left"></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipollis&theme=tokyonight&bg_color=0000&show_icons=true&column=3&margin-w=20&margin-h=20" alt="lipollis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipollis&theme=radical&bg_color=0000&show_icons=true&column=3&margin-w=20&margin-h=20" alt="lipollis" /></a> </p>
 <br>
 <br>
 
