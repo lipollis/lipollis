@@ -10,6 +10,14 @@
 - :runner: I'm a run race addict.
 - :musical_score:I don't live without music
 
+<br>
+<br>
+<div align="center">
+  <a href="https://alinepollis-portifolio.netlify.app/"> 
+    <img src="https://img.shields.io/badge/website-FF0000?style=for-the-badge&logo=About.me&logoColor=black"></img></a> 
+</div>
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://t.me/AlinePollis"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a> 
