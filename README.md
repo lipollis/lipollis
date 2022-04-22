@@ -14,7 +14,7 @@
 <br>
 <div align="center">
   <a href="https://alinepollis-portifolio.netlify.app/"> 
-    <img src="https://img.shields.io/badge/website-FF0000?style=for-the-badge&logo=About.me&logoColor=black"></img></a> 
+    <img src="https://img.shields.io/badge/website-0000FF?style=for-the-badge&logo=About.me&logoColor=white"></img></a> 
 </div>
 
 
