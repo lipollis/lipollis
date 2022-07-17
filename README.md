@@ -43,9 +43,8 @@
 ### :triangular_ruler: Stats Card
 <div align="center">
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br)](https://github.com/lipollis/github-readme-stats)
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br)](https://github.com/lipollis/github-readme-stats)
-
+ <a href="https://github.com/lipollis/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br" style="max-width: 80%;align=center;"/> </a>
+<a href="https://github.com/lipollis/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br" style="max-width: 60%;align=center;" /> </a>
 
 </div> 
 <br>
@@ -108,7 +107,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px"/>
-  <img src="http://jwt.io/img/logo-asset.svg" width="120px"/>
+  <img src="http://jwt.io/img/logo-asset.svg" width="90px"/>
   - Projeto desenvolvido com um sistema de gerenciamento de Helpdesk. Uso de deseign MVC, frameworks SpringBoot e Angular, emprego de JWT e SpringSecurity para login.
   - *Project developed with a Helpdesk management system. Use of MVC design, SpringBoot and Angular frameworks, use of JWT and SpringSecurity for login.*
 
@@ -157,7 +156,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px"/>
-  <img src="http://jwt.io/img/logo-asset.svg" width="120px"/>
+  <img src="http://jwt.io/img/logo-asset.svg" width="90px"/>
   - Projeto final do curso técnico de Desenvolvimento Fullstack, ofertado pelo SENAI-SP, aplicando frameworks SpringBoot e Angular para construção de uma página de gerenciamento do sistema da AP Engenharia com o uso de CRUD e design MVC.
   - *Final project of the Fullstack Development technical course, offered by SENAI-SP, applying SpringBoot and Angular frameworks to build an AP Engenharia system management page using CRUD and MVC design.*
 
