@@ -43,7 +43,7 @@
 ### :triangular_ruler: Stats Card
 <div align="center">
 
- <a href="https://github.com/lipollis/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br" width="280px"/> </a>
+ <a href="https://github.com/lipollis/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipollis&layout=compact&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br" /> </a>
 <a href="https://github.com/lipollis/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=lipollis&layout=compact&count_private=true&theme=tokyonight&bg_color=0000&show_icons=true&hide_border=true&locale=pt-br" width="380px" /> </a>
 
 </div> 
