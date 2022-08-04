@@ -59,7 +59,10 @@
 
 
 ## Resumo dos repositórios - *Summary of repositories*
-
+- [DevSuperior_CSharp](https://github.com/lipollis/DevSuperior_CSharp)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C-Sharp" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotNet" width="30px" />
+          
 - [PHP_Cod3r](https://github.com/lipollis/PHP_Cod3r) 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30px" />
